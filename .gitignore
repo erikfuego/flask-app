@@ -1,0 +1,6 @@
+.flaskenv
+.project
+.pydevproject
+.settings/
+__pycache__/
+venv/
